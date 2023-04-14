@@ -1,5 +1,5 @@
 {
-  "name": "pancake-frontend",
+  "name": "@mdd0x/pancake-frontend",
   "version": "0.1.0",
   "private": true,
   "workspaces": [
